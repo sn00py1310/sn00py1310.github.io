@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /blog/
+Allow: /$
 Disallow: /
 
 Sitemap: https://sn00py1310.github.io/blog/sitemap.xml
